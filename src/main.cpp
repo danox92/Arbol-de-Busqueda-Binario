@@ -5,7 +5,7 @@
 #include <vector>
 
 #include "DNI.hpp"
-#include "../Include/TreeBB.hpp"
+#include "../include/TreeBB.hpp"
 #include "Stats.hpp"
 
 Counter DNI::counter;

@@ -4,7 +4,7 @@
 #include <iostream>
 #include <functional>
 #include "Nodo.hpp"
-#include "../CommonExc.hpp"
+#include "../src/CommonExc.hpp"
 
 using namespace std;
 
